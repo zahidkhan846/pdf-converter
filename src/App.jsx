@@ -3,7 +3,7 @@ import PdfConverter from "./components/PdfConverter";
 function App() {
   return (
     <div className="container">
-      <h1>PDF Converter</h1>
+      <h1>HTML to pdf Converter</h1>
       <PdfConverter />
     </div>
   );
